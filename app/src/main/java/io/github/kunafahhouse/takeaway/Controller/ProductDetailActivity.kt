@@ -29,7 +29,7 @@ class ProductDetailActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_product_detail)
 
-
+        // some changes
 
        product = (intent.getSerializableExtra("product") as? Product)!!
        val productTotalPrice = intent.getDoubleExtra("productTotalPrice",0.0)
