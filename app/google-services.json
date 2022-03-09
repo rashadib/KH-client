@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810541021612",
+    "project_id": "kh-takeaway",
+    "storage_bucket": "kh-takeaway.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810541021612:android:0d044083d9a3f39b156209",
+        "android_client_info": {
+          "package_name": "io.github.kunafahhouse.takeaway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810541021612-ofafear48ppcc3s1ec3rfcn9ujbv4pm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN5t74I1C9ENATemfTiMno4A3Sx7-PnlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810541021612-ofafear48ppcc3s1ec3rfcn9ujbv4pm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
